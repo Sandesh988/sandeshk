@@ -1,1 +1,4 @@
-# sandeshk
+NAME:SANDESH K
+ACADEMIC DETAILS:2ND YEAR ISE
+CURRENT TEC STACK:JAVA
+LINKED IN PROFILE LINK:https://www.linkedin.com/in/sandesh-k-sandesh-3bb056361/
